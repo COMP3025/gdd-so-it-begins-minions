@@ -150,7 +150,7 @@ while run:
 
       world.game_speed = 1
       if fast_forward_button.draw(screen):
-        world.game_speed = 2
+        world.game_speed = 6
 
       if pg.time.get_ticks() - last_enemy_spawn > c.SPAWN_COOLDOWN:
         if world.spawned_enemies < len(world.enemy_list):
