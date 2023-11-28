@@ -6,29 +6,35 @@
 
 **2. Mecânica de Jogo:**
    - **Descrição Detalhada das Mecânicas Principais:**
-     - Movimento do Jogador (se aplicável).
-     - Colocação e Upgrade de Torres.
+     - Posicionamento de Torres de defesa
+     - Upgrade de Torres.
      - Sistema de Ondas Infinitas.
      - Recursos e Economia do Jogo.
 
    - **Regras e Sistemas:**
-     - Não existe um critério de vitória e sim re rankeamento por tempo.
+     - Não existe um critério de vitória e sim de rankeamento por level.
      - Mecânicas Especiais das Torres.
+     - Mecânicas de inimigos
 
 **4. Personagens e Inimigos:**
    - **Personagens Jogáveis:**
-     - (MATSUO ESCREVER AQUI A DESCRIÇÃO DAS TORRES)
-     - (MATSUO ESCREVER AQUI OS ATRIBUTOS DAS TORRES)
+     - Torre level 1: custo 150 moedas
+     - Torre upgrade level 2: custo de mais 100 moedas
+     - Torre upgrade level 3: custo de mais 100 moedas
+     - Torre upgrade level 4: custo de mais 100 moedas
 
    - **Inimigos:**
-     - Os orcs querem destruir sua civilização.
+     - Exército level 1.
+     - Exército level 2.
+     - Exército level 3.
+     - Exército level 4.
 
 **6. Arte e Estilo Visual:**
    - **Direção de Arte:**
-     - Estilo gráfico será cartoonizado, com utilização de assets 3d.
+     - Estilo gráfico será assets 2d.
 
    - **Design Visual:**
-     - Torres 3d, Inimigos 3d.
+     - Torres 2d, Inimigos 2d.
 
 **8. Interface do Usuário (UI):**
    - **Design da Interface:**
@@ -39,7 +45,7 @@
      - A cada enemy eliminado será fornecido gold para upgrade de novas torres.
 
    - **Conquistas no Jogo:**
-     - Ser o melhor rankeado, sobreviver mais tempo.
+     - Ser o melhor rankeado, sobreviver mais tempo e subir de level.
 
 **12. Considerações Técnicas:**
    - **Plataformas de Destino:**
